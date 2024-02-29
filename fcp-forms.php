@@ -837,6 +837,7 @@ class FCP_Forms {
 new FCP_Forms();
 
 /*
+    chante for test commit ++--
     globalize delegate register styles
     filter multiple fields empty values, as schedule fills in too many rows
     make the password validate simple test
